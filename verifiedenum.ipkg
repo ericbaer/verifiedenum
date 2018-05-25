@@ -1,0 +1,7 @@
+package verifiedenum
+
+modules = Data.Enum.Verified,
+    Data.Enum.Verified.WithOrd,
+	Data.Enum.Verified.WithBounded
+
+pkgs = contrib, pruviloj, bifunctors, eqconv, containersandbox
